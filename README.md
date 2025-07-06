@@ -55,8 +55,8 @@ My personal Bio repo
 <h2>📫 Connect With Me</h2>
 
 <ul>
-  <li><a href="https://linkedin.com/in/your-link">LinkedIn</a></li>
-  <li>Email: waasif@example.com</li>
+  <li><a href="www.linkedin.com/in/shaik-mohammad-waasif-ansari-a01b99218">LinkedIn</a></li>
+  <li>Email: mohammedwaasif38@gmail.com</li>
   <li>Location: Hyderabad, India</li>
 </ul>
 
