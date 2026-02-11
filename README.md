@@ -3,7 +3,7 @@ My personal Bio repo
 <h1 align="center">Hi, I'm Mohammad Waasif 👋</h1>
 
 <p align="center">
-  🎓 3rd Year AI & Data Science Engineering Student <br>
+  🎓 4th Year AI & Data Science Engineering Student <br>
   🚀 Future AI Engineer | 🧠 Python, ML, GitHub Projects <br>
   📍 Hyderabad, India
 </p>
@@ -14,8 +14,7 @@ My personal Bio repo
 
 <ul>
   <li>🔢 <b>CS50P Python Project Series</b> – 1 project per lecture</li>
-  <li>📊 <b>FCC Data Analysis Projects</b> – with Pandas, NumPy, Matplotlib</li>
-  <li>🤖 <b>IBM Data Science & AI Engineering Certifications</b></li>
+  <li>    <b> Apna college AIML prime course</b></li> 
   <li>🧠 <b>Machine Learning & Deep Learning by Andrew Ng</b></li>
 </ul>
 
@@ -25,7 +24,7 @@ My personal Bio repo
 
 <ul>
   <li>✅ Python Foundations (CS50P)</li>
-  <li>🔄 Data Analysis (FCC + IBM)</li>
+  <li>   apnacollege AIML prime course </li>
   <li>⏳ Machine Learning (Andrew Ng)</li>
   <li>☁️ Deployment & Tools (Docker, Streamlit, GitHub Actions)</li>
   <li>💼 Portfolio + GitHub Projects + LinkedIn Strategy</li>
@@ -62,7 +61,5 @@ My personal Bio repo
 
 <hr>
 
-<blockquote>
-  🌟 <b>“I don't just take courses — I turn every lecture into a working GitHub project.”</b>
-</blockquote>
+
 
