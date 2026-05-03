@@ -39,14 +39,6 @@ My personal Bio repo
   <td><a href="https://github.com/WaasiFAI/cs50p-python-projects">cs50p-python-projects</a></td>
   <td>Python mini-projects for each CS50P lecture</td>
 </tr>
-<tr>
-  <td><a href="https://github.com/WaasiFAI/fcc-data-analysis-projects">fcc-data-analysis-projects</a></td>
-  <td>FreeCodeCamp projects using pandas, matplotlib</td>
-</tr>
-<tr>
-  <td><a href="https://github.com/WaasiFAI/ibm-data-science-projects">ibm-data-science-projects</a></td>
-  <td>IBM guided projects and exercises</td>
-</tr>
 </table>
 
 <hr>
